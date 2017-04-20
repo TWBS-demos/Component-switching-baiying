@@ -1,4 +1,4 @@
-##本地执行：git clone git@github.com:baiying1314/interval-between-components-baiying.git
+##本地执行：git clone git@github.com:baiying1314/Component-switching-baiying.git
 ##cd到项目下，执行：npm install
 ##执行：webpack 
 ##执行：node server.js
